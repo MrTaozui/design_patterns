@@ -11,6 +11,7 @@ public class Run {
 		s.setValue(map);//多态 导致的结果
 		Father f = new Father();
 		f.setValue(map);
+		System.out.println(3.05+3.73+4.63+3.50-1.66+0.14+2.06+10+3.44+4.5);
 	}
 
 }
